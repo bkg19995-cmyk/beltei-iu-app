@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/beltei-iu-app/static/css/main.e6c13ad2.css",
+    "main.js": "/beltei-iu-app/static/js/main.aff8cefa.js",
+    "static/js/453.e238a349.chunk.js": "/beltei-iu-app/static/js/453.e238a349.chunk.js",
+    "static/media/BIU3.png": "/beltei-iu-app/static/media/BIU3.ba4060396b24d0b9bdc0.png",
+    "static/media/BIU1.png": "/beltei-iu-app/static/media/BIU1.6b87cb9a004ab78f3ff8.png",
+    "static/media/IMG.JPG": "/beltei-iu-app/static/media/IMG.6a1c7bab6d7451fa45ac.JPG",
+    "static/media/HQ.png": "/beltei-iu-app/static/media/HQ.f874f527b3315a166d3f.png",
+    "static/media/BIU5.jpg": "/beltei-iu-app/static/media/BIU5.48303b2312087f12a279.jpg",
+    "static/media/Benner.jpg": "/beltei-iu-app/static/media/Benner.a0ba47cb4715bae38b69.jpg",
+    "static/media/BIU4.jpg": "/beltei-iu-app/static/media/BIU4.b6dadf011a500d0f700c.jpg",
+    "static/media/BIU2.png": "/beltei-iu-app/static/media/BIU2.d1ecd9f4b3798a32060b.png",
+    "static/media/new-image.jpg": "/beltei-iu-app/static/media/new-image.4f833613ca5545e39980.jpg",
+    "static/media/Photos1.jpg": "/beltei-iu-app/static/media/Photos1.6137e3b4681775f296bf.jpg",
+    "static/media/Photos3.jpg": "/beltei-iu-app/static/media/Photos3.57e2d25033076713b94e.jpg",
+    "static/media/Photos4.jpg": "/beltei-iu-app/static/media/Photos4.5f0d07d1088bd24b1c8c.jpg",
+    "static/media/Photos2.jpg": "/beltei-iu-app/static/media/Photos2.516976d8950b60d39c05.jpg",
+    "static/media/OIP1.png": "/beltei-iu-app/static/media/OIP1.8b60f20e7ea5ab95b4a2.png",
+    "index.html": "/beltei-iu-app/index.html",
+    "main.e6c13ad2.css.map": "/beltei-iu-app/static/css/main.e6c13ad2.css.map",
+    "main.aff8cefa.js.map": "/beltei-iu-app/static/js/main.aff8cefa.js.map",
+    "453.e238a349.chunk.js.map": "/beltei-iu-app/static/js/453.e238a349.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.aff8cefa.js"
+  ]
+}
